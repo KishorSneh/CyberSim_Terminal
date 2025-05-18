@@ -35,6 +35,5 @@ Compiling exploit...
 Access granted. Welcome, Agent Alex.
 ```
 
-## License
 
 This project is for entertainment and educational purposes only.
